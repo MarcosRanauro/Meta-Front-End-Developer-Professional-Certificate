@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.container {
+    margin: 5px auto;
+    max-width: auto;
+    padding: 0 20px;
+    height: calc(100vh - 120px);
+    overflow: auto;
+}
+
+.img-css {
+    width: 60%;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+}
