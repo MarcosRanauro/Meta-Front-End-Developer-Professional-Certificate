@@ -6,6 +6,7 @@ Este repositório contém projetos desenvolvidos como parte do curso Meta Front-
 
 - HTML
 - CSS
+- Javascript
 - React
 - Bootstrap
 
